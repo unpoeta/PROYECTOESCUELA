@@ -1,0 +1,86 @@
+header{
+	background: lightgrey;
+
+}
+
+h1{
+	color: black;
+	font-family: cursive;
+	text-align: center;
+}
+img.img1{
+	width: 300px;
+	height: 250px;
+	border-radius: 250px;
+}
+table{
+	background: grey;
+}
+tr{
+	color: darkred;
+	font-family: cursive;
+}
+
+    body {
+    	background:midnightblue;
+    	
+    }
+form{
+	background:lightblu
+}
+li{
+	color: skyblue;
+	font-family:cursive;
+}
+img.img2{
+	width: 150px;
+	height: 200px;
+	border-radius: 220;
+}
+nav ul {
+	text-align: right;
+	list-style-type: none;
+	padding :0;
+	margin :10;
+}
+nav li{
+	display: inline;
+
+}
+a {
+	margin: 10px;
+	font-size: 20px;
+}
+h1.num2{
+	color: red;
+}
+img.img3{
+	width: 250px;
+	height: 200px;
+	border-radius:250;
+
+}
+img.img4{
+	width: 250px;
+	height: 200px;
+	border-radius: 250;
+}
+h2.num3{
+	color: black;
+	font-family: cursive;
+	text-align: center;
+}
+h3.num5{
+	color: black;
+	font-family: cursive;
+	text-align: center;
+}
+h1.num6{
+	color: black;
+	font-family: cursive;
+	text-align: center;
+}
+td.num7{
+	font-family: cursive;
+}
+
