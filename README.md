@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ALUMNOS DEL TERECER GRADO</title>
+    <script defer src="https://app.embed.im/snow.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+<body>
+	<header class="header">
+		<h1>TERCER GRADO DE LA TELESECUNDARIA</h1>
+		<nav>
+			<ul>
+				
+				<li><a href="AlVINO.html">ALVINO</a></li>
+				<li><a href="BERTIN.html">BERTIN</a></li>
+			    <li><a href="CARLOS.html">CARLOS</a></li>
+				 <li><a href="DIANET.html">DIANET</a></li>
+				  <li><a href="index.html">INICIO</a></li>
+				  <li><a href="OLIVAN.html">OLIVAN</a></li>
+				  <li><a href="ROSA.html">ROSA</a></li>
+				  <li><a href="SILVIANO.html">SILVIANO</a></li>
+				  <li><a href="YOVANI.html">YOVANI</a></li>
+				  <li><a href="EVIEL.html">EVIEL</a></li>
+			</ul>
+		</nav>
+	</header>
+	<img src="imagen/escuela.jpeg">
+
+<form method="post" action="">
+	<h2>COMPLETA EL FORMULARIO</h2>
+	<label>INGRESA TU NOMBRE</label>
+	<input type="text" name="nombre">
+	<br>
+	<br>
+	<label>INGRESA TU EDAD</label>
+	<input type="NUMERO" name="EDAD">
+	<br>
+	<br>
+	<label>INGRESE SU COLOR FAVORITO</label>
+	<input type="text" name="COLOR">
+	<br>
+	<br>
+	<label>CREE SU CLAVE</label>
+	<input type="password" name="contraseña">
+
+
+</form>
+<h1>OBSERVA ESTE CUADRO Y LEE</h1>
+<br><br><br>
+<table border="2">
+	<tr>
+		<td>Nombre</td>
+		<td>imagen</td>
+	    <td>Descripcion</td>
+	</tr>
+	<tr>
+		<td>ESCUELA TELESECUNDARIA</td>
+		<td><img src="imagen/escuela2.jpg" class="img3"></td>
+	    <td>LA ESCUELA TELESECUNDARIA CONSTA DE 3 GRADOS Y LA IMGEN QUE SE PUEDE OBSERVAR ES EL SALON DEL TERCER GRADO, ESTA ES LA PAGINA DEL TERCER GRADO,GRUPO"A"</td>
+	</tr>
+</table>
+
+
+</body>
+</html>
